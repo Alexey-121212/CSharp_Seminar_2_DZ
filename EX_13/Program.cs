@@ -18,6 +18,6 @@ if (num > 99)
 }
 else
 {
-    Console.WriteLine("no");
+    Console.WriteLine("У числа нет третьей цифры");
 }
 
