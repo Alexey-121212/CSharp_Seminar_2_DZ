@@ -1,0 +1,15 @@
+C:\Users\alexey\OneDrive\EDU\CSharp_Seminar_2_DZ\EX_15\bin\Debug\net6.0\EX_15.exe
+C:\Users\alexey\OneDrive\EDU\CSharp_Seminar_2_DZ\EX_15\bin\Debug\net6.0\EX_15.deps.json
+C:\Users\alexey\OneDrive\EDU\CSharp_Seminar_2_DZ\EX_15\bin\Debug\net6.0\EX_15.runtimeconfig.json
+C:\Users\alexey\OneDrive\EDU\CSharp_Seminar_2_DZ\EX_15\bin\Debug\net6.0\EX_15.dll
+C:\Users\alexey\OneDrive\EDU\CSharp_Seminar_2_DZ\EX_15\bin\Debug\net6.0\EX_15.pdb
+C:\Users\alexey\OneDrive\EDU\CSharp_Seminar_2_DZ\EX_15\obj\Debug\net6.0\EX_15.csproj.AssemblyReference.cache
+C:\Users\alexey\OneDrive\EDU\CSharp_Seminar_2_DZ\EX_15\obj\Debug\net6.0\EX_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexey\OneDrive\EDU\CSharp_Seminar_2_DZ\EX_15\obj\Debug\net6.0\EX_15.AssemblyInfoInputs.cache
+C:\Users\alexey\OneDrive\EDU\CSharp_Seminar_2_DZ\EX_15\obj\Debug\net6.0\EX_15.AssemblyInfo.cs
+C:\Users\alexey\OneDrive\EDU\CSharp_Seminar_2_DZ\EX_15\obj\Debug\net6.0\EX_15.csproj.CoreCompileInputs.cache
+C:\Users\alexey\OneDrive\EDU\CSharp_Seminar_2_DZ\EX_15\obj\Debug\net6.0\EX_15.dll
+C:\Users\alexey\OneDrive\EDU\CSharp_Seminar_2_DZ\EX_15\obj\Debug\net6.0\refint\EX_15.dll
+C:\Users\alexey\OneDrive\EDU\CSharp_Seminar_2_DZ\EX_15\obj\Debug\net6.0\EX_15.pdb
+C:\Users\alexey\OneDrive\EDU\CSharp_Seminar_2_DZ\EX_15\obj\Debug\net6.0\EX_15.genruntimeconfig.cache
+C:\Users\alexey\OneDrive\EDU\CSharp_Seminar_2_DZ\EX_15\obj\Debug\net6.0\ref\EX_15.dll
